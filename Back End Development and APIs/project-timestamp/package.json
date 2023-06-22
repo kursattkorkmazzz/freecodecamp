@@ -1,0 +1,29 @@
+{
+  "name": "FCC Timestamp Service",
+  "version": "0.0.1",
+  "description": "This written purpose of training by Kursat Korkmaz.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.12.4",
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+  },
+  "homepage": "https://linktr.ee/kursattkorkmazzz",
+  "author": "Kursat Korkmaz <kursat.korkamz123@hotmail.com>",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp",
+    "git",
+    "github"
+  ],
+  "license": "MIT"
+}
